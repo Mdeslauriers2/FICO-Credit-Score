@@ -24,9 +24,6 @@ The data was read into a Spark DataFrame using the 'spark.read.csv()' method.
 The data was evaluated for missing values and were dropped using 'dropna()' method.
 ### Data Visualizations
 Visualizations were created to analyze the distribution of key features and identify any patterns in the data.
-# Model Implementation
-
-# Results and Evaluation
 
 # Contributors
 - Connor Lorden 
